@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/FerdiPedrini/Segunda-Pre-Entrega/issues"
   },
-  "homepage": "https://github.com/FerdiPedrini/Segunda-Pre-Entrega#readme"
+  "homepage": "https://github.com/FerdiPedrini/Segunda-Pre-Entrega#readme",
+  "devDependencies": {
+    "sass": "^1.56.2"
+  }
 }
